@@ -7,7 +7,8 @@
 ## 📌 Project Overview
 The Iris dataset is a popular and widely used dataset in the field of machine learning and data analysis. It contains measurements of various attributes of different species of Iris flowers. This dataset was first introduced by the British statistician and biologist Ronald Fisher in 1936 and has since become a standard benchmark for classification algorithms.
 
-![species (Setosa, Virginica, Versicolor) of the Iris flowers](./images/screenshot.png)
+
+![species (Setosa, Virginica, Versicolor) of the Iris flowers](./images/Iris_Flowers.png)
 
 ---
 
